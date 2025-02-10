@@ -5,6 +5,7 @@ While exploring the Bluestone website, I identified a bug that affects the user 
 
 
  📍Key Findings:
+
 ⚪ Functional Issues:
 
     ● Identified issues such as broken links on certain product pages and incorrect pricing displayed during checkout.
